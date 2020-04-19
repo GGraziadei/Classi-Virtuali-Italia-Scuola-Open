@@ -16,3 +16,6 @@ client per piattaforma Windows per la libera fruizione degli insegnamenti in rem
 
 # Requisiti Minimi
 Classevirtuale può essere eseguito da un dispositivo con 2 core e 2GB di RAM. E' fondamentale permettere a dispositivi non di nuova genereazione di essere riutilizzati per la finalità di teledidattica
+
+
+**Demo Online** http://classivirtuali.ggraziadei.online/
