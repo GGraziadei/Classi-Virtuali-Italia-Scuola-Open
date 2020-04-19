@@ -1,0 +1,46 @@
+- 02:07:55.000 INFO: --------------------------------------------------------
+- 02:07:55.000 INFO: Started application
+- 02:07:55.000 INFO: Logging to: C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\debug.log
+- 02:07:55.000 INFO: Log level = DEBUG4
+- 02:07:55.000 INFO: Starting Mongoose 3.9c web server
+- 02:07:55.000 INFO: WWW directory: C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\school
+- 02:07:55.000 INFO: Index files: index.html,index.php
+- 02:07:55.000 INFO: CGI interpreter: C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\php\php-cgi.exe
+- 02:07:55.000 INFO: CGI pattern: **.php$
+- 02:07:55.000 INFO: Hide files patterns: 
+- 02:07:55.000 DEBUG: The temp directory returned by OS contains unicode characters: C:\Users\GIANLU~1\AppData\Local\Temp\
+- 02:07:55.000 INFO: CGI environment variables set: TMP=C:\WINDOWS\Temp,TEMP=C:\WINDOWS\Temp,TMPDIR=C:\WINDOWS\Temp,SERVER_NAME=127.0.0.1,PHPDESKTOP_VERSION=57.0
+- 02:07:55.016 INFO: Web server url: http://127.0.0.1:58582/
+- 02:07:55.016 INFO: remote_debugging_port = 51858
+- 02:07:55.016 DEBUG: Command line string for the browser process: "C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\CLASSEVIRTUALE.exe" --no-sandbox --lang=en-US --log-file="C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\debug.log" --remote-debugging-port=51858 --lang=it --enable-media-stream --enable-system-flash --enable-speech-input
+- 02:07:55.047 DEBUG: App::OnContextInitialized()
+- 02:07:55.047 DEBUG: Window max width/height = 2480/992
+- 02:07:55.047 DEBUG: GetBrowserWindow(): not found, hwnd = 6883234
+- 02:07:55.047 DEBUG: WindowProc(): event WM_GETMINMAXINFO: could not fetch BrowserWindow
+- 02:07:55.047 WARNING: Setting icon from settings file failed (ICON_BIG)
+- 02:07:55.047 WARNING: Setting icon from settings file failed (ICON_SMALL)
+- 02:07:55.047 DEBUG: BrowserWindow::CreateBrowserControl()
+- 02:07:55.047 DEBUG: StoreBrowserWindow(): hwnd = 6883234
+- 02:07:55.078 DEBUG: ClientHandler::OnAfterCreated()
+- 02:07:55.078 DEBUG: SetCefBrowser() called in ClientHandler::OnAfterCreated()
+- 02:07:55.000 DEBUG: Command line string for the gpu-process process: "C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\CLASSEVIRTUALE.exe" --type=gpu-process --no-sandbox --lang=it --log-file="C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\debug.log" --disable-direct-composition --supports-dual-gpus=false --gpu-driver-bug-workarounds=7,10,18,19,20,23,41,74 --disable-gl-extensions="GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent" --gpu-vendor-id=0x10de --gpu-device-id=0x1380 --gpu-driver-vendor=NVIDIA --gpu-driver-version=26.21.14.4259 --gpu-driver-date=3-4-2020 --lang=it --log-file="C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\debug.log" --service-request-channel-token=908A58CA0E64B4C8B60E3045250A7682 --mojo-platform-channel-handle=1756 /prefetch:2
+- 02:07:55.094 DEBUG: OnLoadingStateChange: loading=1, url=
+- 02:07:55.000 DEBUG: Command line string for the renderer process: "C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\CLASSEVIRTUALE.exe" --type=renderer --no-sandbox --primordial-pipe-token=829BF72C6BDC1ABF0F07BC1BAB6DF5FA --lang=en-US --lang=it --log-file="C:\Users\Gianluca Graziadei\Desktop\DESKTOP SOFTWARE PHP\debug.log" --enable-speech-input --enable-system-flash --enable-pinch --device-scale-factor=1 --num-raster-threads=2 --enable-main-frame-before-activation --content-image-texture-target=0,0,3553;0,1,3553;0,2,3553;0,3,3553;0,4,3553;0,5,3553;0,6,3553;0,7,3553;0,8,3553;0,9,3553;0,10,3553;0,11,3553;0,12,3553;0,13,3553;0,14,3553;0,15,3553;1,0,3553;1,1,3553;1,2,3553;1,3,3553;1,4,3553;1,5,3553;1,6,3553;1,7,3553;1,8,3553;1,9,3553;1,10,3553;1,11,3553;1,12,3553;1,13,3553;1,14,3553;1,15,3553;2,0,3553;2,1,3553;2,2,3553;2,3,3553;2,4,3553;2,5,3553;2,6,3553;2,7,3553;2,8,3553;2,9,3553;2,10,3553;2,11,3553;2,12,3553;2,13,3553;2,14,3553;2,15,3553;3,0,3553;3,1,3553;3,2,3553;3,3,3553;3,4,3553;3,5,3553;3,6,3553;3,7,3553;3,8,3553;3,9,3553;3,10,3553;3,11,3553;3,12,3553;3,13,3553;3,14,3553;3,15,3553 --service-request-channel-token=829BF72C6BDC1ABF0F07BC1BAB6DF5FA --renderer-client-id=3 --mojo-platform-channel-handle=2356 /prefetch:1
+- 02:07:55.032 DEBUG: OnBrowserCreated()
+[0419/020755.626:ERROR:child_thread_impl.cc(762)] Request for unknown Channel-associated interface: ui::mojom::GpuMain
+- 02:07:56.188 INFO: GET 200 /
+- 02:07:56.235 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58582/
+- 02:08:03.235 DEBUG: OnLoadingStateChange: loading=1, url=http://127.0.0.1:58582/
+- 02:08:03.344 INFO: GET 200 /accesso.php?username=123&password=123
+- 02:08:03.360 DEBUG: OnLoadingStateChange: loading=0, url=http://127.0.0.1:58582/accesso.php?username=123&password=123
+- 02:08:06.688 DEBUG: WM_DESTROY
+- 02:08:06.688 DEBUG: RemoveBrowserWindow(): hwnd = 6883234
+- 02:08:06.688 INFO: Stopping Mongoose web server
+- 02:08:06.688 DEBUG: Mongoose webserver stopped immediately
+- 02:08:06.688 DEBUG: OnBeforeClose() hwnd=1967962
+- 02:08:06.688 DEBUG: RemoveBrowserWindow(): hwnd = 1967962
+- 02:08:06.688 DEBUG: GetBrowserWindow(): not found, hwnd = 1967962
+- 02:08:06.688 WARNING: RemoveBrowserWindow() failed: GetBrowserWindow() failed
+- 02:08:06.688 DEBUG: Calling CefQuitMessageLoop()
+- 02:08:06.719 INFO: Ended application
+- 02:08:06.719 INFO: --------------------------------------------------------
