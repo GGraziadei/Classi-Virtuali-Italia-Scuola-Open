@@ -1,5 +1,5 @@
 # Classi-Virtuali-Italia-Scuola-Open
-client per piattaforma Windows per la libera fruizione degli insegnamenti in remoto per client Windows 
+client per piattaforma Windows per la libera fruizione degli insegnamenti in remoto. 
 
 - Clona la cartella in formato .zip ed esegui il file classevirtuale.exe.
 
