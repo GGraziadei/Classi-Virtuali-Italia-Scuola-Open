@@ -30,7 +30,7 @@
     <tr>
       <td data-column="First Name"><?php echo $ora;?></td>
       <td data-column="First Name"><?php echo $_ENV["USERNAME"]?></td>
-      <td data-column="Last Name"><a href="javascript:window.open('<?php echo $link;?>', '', 'width=1024,height=720')"> QUI PER ACCEDERE</a></td>
+      <td data-column="Last Name"><a href="javascript:window.open('<?php echo $link;?>', '', 'width=1024,height=720')">CLICCA QUI PER ACCEDERE</a></td>
 
       
     </tr>
