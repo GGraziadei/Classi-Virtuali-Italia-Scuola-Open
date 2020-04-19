@@ -12,7 +12,7 @@ client per piattaforma Windows per la libera fruizione degli insegnamenti in rem
 
 # Aggioramenti previsti
 
--Modalità lezione: urante lo svolgimento della lezione la finestra sarà aperta in full-screen per evitare distrazioni legate a social e le varie notifiche del tuo PC.
+- Modalità lezione: urante lo svolgimento della lezione la finestra sarà aperta in full-screen per evitare distrazioni legate a social e le varie notifiche del tuo PC.
 
 # Requisiti Minimi
 Classevirtuale può essere eseguito da un dispositivo con 2 core e 2GB di RAM. E' fondamentale permettere a dispositivi non di nuova genereazione di essere riutilizzati per la finalità di teledidattica
